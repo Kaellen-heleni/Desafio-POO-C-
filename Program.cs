@@ -1,0 +1,30 @@
+﻿using Projeto_DIO_POO.models;
+Console.WriteLine("Smartphone Iphone XR");
+Smartphone Iphone = new Iphone (numero: "(11) 97887-2018", modelo: "Iphone XR", imei: "0102939485766", memoria: 276);
+Console.WriteLine("\n");
+Iphone.VisualizarSmartphone();
+Console.WriteLine("\n");
+Iphone.Ligar();
+Console.WriteLine("\n");
+Iphone.ReceberLigacao();
+Console.WriteLine("\n");
+Iphone.InstalarAplicativo("Instagram");
+Console.WriteLine("\n");
+Iphone.DesligarSmartphone();
+
+Console.WriteLine("\n");
+
+Console.WriteLine($"Verificando outro Smartphone disponível...");
+Console.WriteLine("\n");
+Console.WriteLine("Smartphone Nokia Tijolinho");
+Smartphone nokia = new Nokia (numero: "(11) 96266-4655", modelo: "Nokia Tijolo 2.0", imei: "0102939485766", memoria: 12);
+Console.WriteLine("\n");
+nokia.VisualizarSmartphone();
+Console.WriteLine("\n");
+nokia.Ligar();
+Console.WriteLine("\n");
+nokia.ReceberLigacao();
+Console.WriteLine("\n");
+nokia.InstalarAplicativo("Telegram");
+Console.WriteLine("\n");
+nokia.DesligarSmartphone();

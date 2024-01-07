@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\bin\Debug\net8.0\Projeto DIO POO.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\bin\Debug\net8.0\Projeto DIO POO.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\bin\Debug\net8.0\Projeto DIO POO.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\bin\Debug\net8.0\Projeto DIO POO.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\bin\Debug\net8.0\Projeto DIO POO.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\refint\Projeto DIO POO.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\Projeto DIO POO.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projeto DIO POO\obj\Debug\net8.0\ref\Projeto DIO POO.dll
